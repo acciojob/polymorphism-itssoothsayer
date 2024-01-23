@@ -9,7 +9,7 @@ public class Main {
             return 0;
         }
         public double product(double x, double y) {
-            return 0;
+            return 0.0;
         }
 
         public static void main(String[] args) {
